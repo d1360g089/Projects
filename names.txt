@@ -1,0 +1,6 @@
+diegoalexdiego
+alex
+harry
+nicole
+& C:/Users/diego/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/diego/Desktop/CS50x/Fileio.py
+bob
